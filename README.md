@@ -1,7 +1,7 @@
 
 # AI Manga Colorizer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lNGlk-FwXwPBtFr7TAdyDpf822A46Suc)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Swakshan/AI-Manga-Colorizer/blob/main/Manga_Colorizer.ipynb)
 
 
 ## Acknowledgement
