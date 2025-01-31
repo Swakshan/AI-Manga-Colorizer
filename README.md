@@ -11,3 +11,5 @@
 * [Keiser04/manga-colorization-v2](https://github.com/Keiser04/manga-colorization-v2)
 
 * [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN/)
+
+* [ai-forever/Real-ESRGAN](https://github.com/ai-forever/Real-ESRGAN)
